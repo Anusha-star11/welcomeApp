@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.welcome-background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e293b;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+h1 {
+  color: yellow;
+  font-family: Bree Serif;
+  font-size: 40px;
+  margin: 10px;
+}
+p {
+  color: white;
+  font-family: Bree Serif;
+  font-size: 20px;
+  margin: 10px;
+}
+.buttonA {
+  background-color: white;
+  height: 30px;
+  width: 90px;
+  margin: 15px;
+  border-radius: 5px;
+}
